@@ -1,4 +1,7 @@
-*.log
-*.pot
 *.pyc
-local_settings.py
+venv
+*.swp
+*.jpg
+*.gz
+settings.py
+atpaino_theblock
